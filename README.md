@@ -14,9 +14,9 @@ This project is constantly updated, if you find it useful, feel free to add Star
 ## Basic concepts
 
 * [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web)
-* [Mozilla Developer Documents] (https://developer.mozilla.org/en-US/docs/Learn)
-* [Guidance from Chrome Developer Relations] (https://web.dev/)
-* [Rendering Performance] (https://web.dev/rendering-performance/)
+* [Mozilla Developer Documents](https://developer.mozilla.org/en-US/docs/Learn)
+* [Guidance from Chrome Developer Relations](https://web.dev/)
+* [Rendering Performance](https://web.dev/rendering-performance/)
 
 ## Reading notes and Computer books
 Coming soon
@@ -25,17 +25,17 @@ Coming soon
 
 ### Front-end Javascript Frameworks
 
-* [React] (https://react.dev/)
-* [Angular] (https://angular.io/)
-* [Vue] (https://vuejs.org/)
+* [React](https://react.dev/)
+* [Angular](https://angular.io/)
+* [Vue](https://vuejs.org/)
 
 ### Backend Frameworks
 
-* [ExpressJs] (https://expressjs.com/) that uses Node.js
-* [Django] (https://www.djangoproject.com/) that uses Python
-* [Rails] (https://rubyonrails.org/) that uses Ruby
-* [Laravel] (https://laravel.com/) that uses PHP
-* [Spring] (https://spring.io/) that uses Java
+* [ExpressJs](https://expressjs.com/) that uses Node.js
+* [Django](https://www.djangoproject.com/) that uses Python
+* [Rails](https://rubyonrails.org/) that uses Ruby
+* [Laravel](https://laravel.com/) that uses PHP
+* [Spring](https://spring.io/) that uses Java
 
 ## Technical articles
 Updating...
